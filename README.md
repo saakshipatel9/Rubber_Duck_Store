@@ -2,9 +2,9 @@
 DH Coding Test
 
 # Backend Start
-cd ./backend
-<br />node server.js
+`cd ./backend`
+<br />`node server.js`
 
 # Frontend Start
-cd ./frontend
-<br />npm start
+`cd ./frontend`
+<br />`npm start`
