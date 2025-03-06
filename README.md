@@ -8,5 +8,3 @@ DH Coding Test
 ### Frontend Start
 `cd ./frontend`
 <br />`npm start`
-
-VideoLink: https://drive.google.com/file/d/1Mll65CwuuRejX3X7DyVSph1qqvyN0ikz/view?usp=sharing
